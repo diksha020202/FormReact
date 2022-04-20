@@ -1,0 +1,17 @@
+{
+  "EmployeeDetails": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Diksha Sharma",
+      "Age": "15",
+      "Address": "29B",
+      "Department": "Marketing",
+      "Salary": "10000",
+      "id": 2
+    }
+  ]
+}
